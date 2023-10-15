@@ -1,9 +1,3 @@
----
-title: Build a local blockchain
-description: Compile, launch, and interact with a single local blockchain node in a development environment.
-keywords:
----
-
 # Building a blockchain
 In this first hands on project we will start a local blockchain node and then interact with it.
 
