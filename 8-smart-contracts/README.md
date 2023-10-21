@@ -40,9 +40,8 @@ cargo contract instantiate --constructor new --args "false" --suri //Alice --sal
 
 ![Alt text](_screenshots/ss3.png)
 
-From the screenshot above, our instantiated contract address is `5EQdvnVWB5qPWisyyoGdnC3Cgw3m1JhXQuXGmuntaQRKKmtX`
+From the screenshot above, our instantiated contract address is `5F2W22TuXhCDiczu3fRBzF49AZ9dKnsfRzirHHbN6RfcbxGk`
 
 ### Interact with contract
 
 ![Alt text](_screenshots/ss4.png)
-![Alt text](_screenshots/ss5.png)
